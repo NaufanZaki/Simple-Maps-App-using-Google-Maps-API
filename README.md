@@ -126,7 +126,7 @@ map-android-java/
 │   │   │       │   └── activity_main.xml  # User interface
 │   │   │       ├── values/
 │   │   │       │   └── strings.xml        # App strings
-├── local.properties                       # Example configuration file
+├── local.properties                       # Configuration file
 └── README.md                              # Project documentation
 ```
 
